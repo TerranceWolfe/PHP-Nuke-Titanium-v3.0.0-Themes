@@ -63,7 +63,7 @@
 <!-- BEGIN font_size --><span style="font-size: {SIZE}{PX}; display:inline-block;"><!-- END font_size -->
 <!-- BEGIN font_size_close --></span><!-- END font_size_close -->
 
-<!-- BEGIN img --><div class="reimg-loading"></div><img class="reimg" onload="reimg(this);" onerror="reimg(this);" src="{URL}" border="0" alt="" /><!-- END img -->
+<!-- BEGIN img --><div align="center" class="reimg-loading"></div><img class="reimg" onload="reimg(this);" onerror="reimg(this);" src="{URL}" border="0" alt="" /><!-- END img -->
 
 <!-- BEGIN url --><a href="{URL}" target="_blank">{DESCRIPTION}</a><!-- END url -->
 

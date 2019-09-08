@@ -83,6 +83,7 @@ addCSSToHead(carbinfiber_red_flames_style_dir.'menu.css','file');
 
 addPHPCSSToHead(carbinfiber_red_flames_phpstyle_dir.'body.php','file'); //Titanium Themes Only
 addPHPCSSToHead(carbinfiber_red_flames_phpstyle_dir.'maintable.php','file'); //Titanium Themes Only
+addPHPCSSToHead(carbinfiber_red_flames_phpstyle_dir.'CKeditor.php','file'); //Titanium Themes Only
 
 #-------------------#
 # OpenTable Section #
